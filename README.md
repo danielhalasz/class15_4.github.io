@@ -1,6 +1,6 @@
 # class15_4.github.io
 
-Group members:
+The members of group 15_4 are:
 
     @lauraramirez220612
     @Senait-coding
