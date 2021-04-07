@@ -8,4 +8,4 @@ You can reach me out on  :octocat: @Moamin-AbuEwaida
 
 let's all have fun with the course
 
-![Funny Mog](https://user-images.githubusercontent.com/28728040/113616107-b387ad80-9622-11eb-81fd-7a7b4d5c4e32.jpg)
+![Funny Mog](images/Funny%20Mog.jpg)

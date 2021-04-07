@@ -1,6 +1,6 @@
 # Hey there
 
-![Senait](Seni.jpg)
+![Senait](/images/Seni.jpg)
 
 I'm Senait,
 
