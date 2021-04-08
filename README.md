@@ -1,8 +1,8 @@
 # Let's Hack Our Future
 
-The members of Class 15 Group 4 are:
+The members of **teamFour** are:
 
-- [@lauraramirez220612]() 
+- [@lauraramirez220612](/LAURA.md) 
 - [@Senait-coding](/Senait%20README.md)
 - [@TatsianaRud](/TatsianaRud.md)
 - [@bringmetheaxx]()
