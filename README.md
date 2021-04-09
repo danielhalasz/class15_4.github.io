@@ -1,6 +1,6 @@
 # Let's Hack Our Future
 
-The members of **teamFour** are:
+The members of **TeamFour** are:
 
 - [@lauraramirez220612](/LAURA.md) 
 - [@Senait-coding](/Senait%20README.md)
